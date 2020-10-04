@@ -97,7 +97,7 @@ In this project I'm trying to analyze and visualize the Output variable i.e Purc
 7)Chi-Sqaure Test : 
   To check Relation between two categorical feature
   
-8)Scateerplot with approx boundry line:  
+8)Scatterplot with approx boundry line:  
 
 ![](Figures/scatterwithboundary_1.png)
 
