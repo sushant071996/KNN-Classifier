@@ -115,7 +115,7 @@ In this project I'm trying to analyze and visualize the Output variable i.e Purc
 
 ## Conclusing Statement
 
-    We can conclude that Age and Estimated Salary after standardizing gives an accuracy of 95% for train and 88% for test
+  We can conclude that Age and Estimated Salary after standardizing gives an accuracy of 95% for train and 88% for test
 
 ## Note
 
